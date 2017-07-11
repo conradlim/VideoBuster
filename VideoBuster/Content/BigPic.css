@@ -1,0 +1,57 @@
+﻿/*!
+ * Start Bootstrap - The Big Picture (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+/*body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
+}
+
+.full {
+  background: url(https://static1.squarespace.com/static/577820283e00be9cc0dad67a/577879eaf7e0ab3bafef219a/581ca899f7e0ab33f720bf76/1478274461292/wonder+woman+-+3.jpg?format=2500w) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}*/
+
+
+/*
+ * Start Bootstrap - Full Slider (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+html,
+body {
+	height: 100%;
+}
+
+.carousel,
+.item,
+.active {
+	height: 100%;
+}
+
+.carousel-inner {
+	height: 100%;
+}
+
+/* Background images are set within the HTML using inline CSS, not here */
+
+.fill {
+	width: 100%;
+	height: 100%;
+	background-position: center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+}
+
+footer {
+	margin: 50px 0;
+}
