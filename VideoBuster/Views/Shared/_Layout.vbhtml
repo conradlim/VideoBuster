@@ -39,7 +39,7 @@
                     </ul>
                 </div>
             </section>
-            <p>&copy; @DateTime.Now.Year - AVB-Project CLIM CPIERCE</p>
+            <p>&copy; @DateTime.Now.Year - AVB-Project CLIM </p>
         </footer>
 
     </div>
