@@ -7,8 +7,8 @@ End Code
     <div class="col-lg-12" style="margin-top:25px;">
         <div class="col-md-6">
             <h1>@ViewData("Title").</h1>
-            <h4>We are a couple of dudes who love to code.  We analyze our use cases and use the best technological way to create your application</h4>
-            <label>Creators/Developers:</label>&nbsp;<span style="color:whitesmoke">Conrad Lim & Charlie Pierce</span><br />
+    <h4>Just a dude who love to code.  We analyze our use cases and use the best technological way to create your application</h4>
+            <label>Creators/Developers:</label>&nbsp;<span style="color:whitesmoke">Conrad Lim</span><br />
             <label>Email:</label>&nbsp;<span style="color:whitesmoke">c&c@advancedvb.net</span> <br />
             <label>Address:</label>&nbsp;<span style="color:whitesmoke">123 De Bug Ste. MVC Stackoverflow, CA 505404 </span>
 
